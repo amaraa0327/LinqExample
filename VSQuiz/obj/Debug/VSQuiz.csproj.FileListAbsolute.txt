@@ -1,0 +1,6 @@
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\bin\Debug\VSQuiz.exe.config
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\bin\Debug\VSQuiz.exe
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\bin\Debug\VSQuiz.pdb
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\obj\Debug\VSQuiz.csproj.CoreCompileInputs.cache
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\obj\Debug\VSQuiz.exe
+C:\Users\amarlptp\source\repos\VSQuiz\VSQuiz\obj\Debug\VSQuiz.pdb
